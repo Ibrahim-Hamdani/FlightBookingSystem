@@ -1,1 +1,2 @@
 # FlightBookingSystem
+This Java program is the main class responsible for managing flight seat reservations. It reads seat data from a file (seats.txt), stores it in an ArrayList, and provides functionalities for users to book, cancel, and view seat reservations. The menu-based system allows interaction via console input. It supports different seat classes, seat attributes (window, aisle, table), and price handling. The program also ensures that seat bookings are saved back to the file for persistence. Various methods handle seat reservations, cancellations, and data saving.
